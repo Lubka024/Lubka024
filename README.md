@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luba
-- 👀 I’m own a small busines called Cargio that lends cargobikes to businesses. See cargio.cz
+- 👀 I own a small busines called Cargio that lends cargobikes to businesses. See cargio.cz
 - 🌱 I’m currently learning CSS, HTML and JS just for fun. 
 
 <!---
